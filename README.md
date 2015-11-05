@@ -1,4 +1,4 @@
-# Small Open Source Office TI project
+# Kitchen Renovation for a House near Lake Koshkonong
 
 
 ============
