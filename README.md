@@ -1,6 +1,10 @@
 # Kitchen Renovation for a House near Lake Koshkonong
 
 
+
+[![Koshkongong_Home](https://raw.githubusercontent.com/OpeningDesign/Koshkonong_Home/efeabb92cd1fd7db310f5f6c29e2d47a049132a9/Transfer/20160226%20-%20owner%20review/chrome_2016-02-29_12-31-17.png)](https://www.youtube.com/watch?v=e2JfwRSnfos)
+
+
 ============
 ####In-the-Open
 
